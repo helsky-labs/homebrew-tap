@@ -1,6 +1,6 @@
 cask "tokencap" do
-  version "1.4.0"
-  sha256 "896e75af62e0526d53633f4464c157caf85d31cbf9bcb60f10642ca28634e6a2"
+  version "1.3.2"
+  sha256 "a3c517af54eb49c7c7dea1bf61fb8dfdbba81ffdc68a76acadaec05a6ded9102"
 
   url "https://github.com/helsky-labs/tokencap/releases/download/v#{version}/TokenCap-v#{version}.dmg"
   name "TokenCap"
